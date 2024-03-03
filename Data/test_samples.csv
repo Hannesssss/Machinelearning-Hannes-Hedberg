@@ -1,0 +1,101 @@
+id,age,height,weight,ap_hi,ap_lo,cholesterol,gluc,smoke,alco,active,cardio,age_years,bmi,BMI-class,bmi_category_Normal range,bmi_category_Obese (class I),bmi_category_Obese (class II),bmi_category_Obese (class III),bmi_category_Overweight,bmi_category_Underweight,Blood-pressure_Healthy,Blood-pressure_Elevated,Blood-pressure_Stage 1 hypertension,Blood-pressure_Stage 2 hypertension,Blood-pressure_Hypertensive crisis,gender_1,gender_2
+21623,17578,178,66.0,130,80,1,1,0,0,1,0,48.15890410958904,20.830703194041156,Normal,True,False,False,False,False,False,False,False,True,False,False,False,True
+30322,16934,164,70.0,120,80,1,1,1,0,1,0,46.394520547945206,26.026174895895306,Overweight,False,False,False,False,True,False,False,False,True,False,False,False,True
+1954,20995,158,59.0,180,90,1,1,0,0,1,1,57.52054794520548,23.634033007530842,Normal,True,False,False,False,False,False,False,False,False,False,True,True,False
+62196,18477,160,62.0,120,80,1,1,0,0,1,0,50.62191780821918,24.218749999999996,Normal,True,False,False,False,False,False,False,False,True,False,False,True,False
+145,23296,168,75.0,110,80,1,1,0,0,0,1,63.824657534246576,26.573129251700685,Overweight,False,False,False,False,True,False,False,False,True,False,False,False,True
+24666,21758,159,69.0,120,80,1,1,0,0,0,0,59.61095890410959,27.29322416043669,Overweight,False,False,False,False,True,False,False,False,True,False,False,True,False
+94092,21254,171,69.0,150,100,3,3,0,0,1,0,58.23013698630137,23.59700420642249,Normal,True,False,False,False,False,False,False,False,False,True,False,True,False
+92966,14667,168,69.0,130,80,1,1,1,0,1,0,40.18356164383562,24.44727891156463,Normal,True,False,False,False,False,False,False,False,True,False,False,False,True
+78713,16823,160,77.0,120,80,2,1,0,0,1,0,46.09041095890411,30.078124999999993,Obese (class 1),False,True,False,False,False,False,False,False,True,False,False,True,False
+37222,21033,172,78.0,120,70,1,1,0,0,1,0,57.62465753424657,26.365603028664147,Overweight,False,False,False,False,True,False,False,True,False,False,False,False,True
+77769,21814,168,84.0,140,90,3,1,0,0,0,1,59.76438356164383,29.761904761904766,Overweight,False,False,False,False,True,False,False,False,False,True,False,True,False
+62865,19132,168,65.0,110,70,1,1,0,0,1,1,52.416438356164385,23.030045351473927,Normal,True,False,False,False,False,False,True,False,False,False,False,True,False
+91428,23213,157,76.0,130,90,1,1,0,0,1,0,63.5972602739726,30.832893829364274,Obese (class 1),False,True,False,False,False,False,False,False,True,False,False,True,False
+34804,18918,160,73.0,140,90,1,1,0,0,1,1,51.83013698630137,28.515624999999993,Overweight,False,False,False,False,True,False,False,False,False,True,False,True,False
+6332,16062,165,66.0,120,80,1,1,0,0,1,0,44.00547945205479,24.242424242424246,Normal,True,False,False,False,False,False,False,False,True,False,False,True,False
+59386,18854,159,65.0,155,105,1,1,1,0,1,1,51.654794520547945,25.71100826707804,Overweight,False,False,False,False,True,False,False,False,False,True,False,False,True
+3452,19030,168,78.0,130,70,2,1,0,0,0,0,52.136986301369866,27.636054421768712,Overweight,False,False,False,False,True,False,False,False,True,False,False,True,False
+36247,18003,155,78.0,140,90,3,3,0,0,0,1,49.323287671232876,32.46618106139438,Obese (class 1),False,True,False,False,False,False,False,False,False,True,False,True,False
+63763,22644,161,60.0,100,70,1,1,0,0,1,0,62.038356164383565,23.147255121330193,Normal,True,False,False,False,False,False,True,False,False,False,False,True,False
+51663,18226,164,75.0,110,70,1,1,0,0,1,0,49.93424657534246,27.885187388459254,Overweight,False,False,False,False,True,False,True,False,False,False,False,False,True
+65677,18952,148,54.0,178,84,2,1,0,0,1,1,51.92328767123288,24.653031409788166,Normal,True,False,False,False,False,False,False,False,True,False,False,True,False
+3595,18323,178,90.0,120,80,2,2,0,0,1,1,50.2,28.40550435551067,Overweight,False,False,False,False,True,False,False,False,True,False,False,False,True
+92557,18915,164,64.0,110,70,1,1,0,0,1,1,51.821917808219176,23.795359904818564,Normal,True,False,False,False,False,False,True,False,False,False,False,False,True
+1654,21167,158,58.0,115,75,1,1,0,0,1,0,57.99178082191781,23.233456176894723,Normal,True,False,False,False,False,False,True,False,False,False,False,True,False
+65440,14778,169,74.0,100,70,1,1,0,0,1,0,40.487671232876714,25.909456951787405,Overweight,False,False,False,False,True,False,True,False,False,False,False,False,True
+59685,16996,165,65.0,120,80,1,1,0,0,1,0,46.56438356164384,23.875114784205696,Normal,True,False,False,False,False,False,False,False,True,False,False,True,False
+28587,20496,163,51.0,110,70,1,1,0,0,1,0,56.153424657534245,19.195302796492154,Normal,True,False,False,False,False,False,True,False,False,False,False,False,True
+59038,19725,178,67.0,130,60,1,1,0,0,1,0,54.04109589041096,21.146319909102385,Normal,True,False,False,False,False,False,False,False,True,False,False,True,False
+48404,20590,160,60.0,120,80,1,1,0,0,1,1,56.41095890410959,23.437499999999996,Normal,True,False,False,False,False,False,False,False,True,False,False,True,False
+49550,15805,169,97.0,145,95,1,1,1,1,1,1,43.3013698630137,33.96239627464025,Obese (class 1),False,True,False,False,False,False,False,False,False,True,False,False,True
+11503,21953,156,70.0,110,70,1,1,0,0,1,0,60.14520547945205,28.763971071663377,Overweight,False,False,False,False,True,False,True,False,False,False,False,True,False
+69213,22708,171,80.0,150,90,1,1,0,0,0,1,62.21369863013699,27.358845456721728,Overweight,False,False,False,False,True,False,False,False,False,True,False,False,True
+97376,22051,153,93.0,130,90,3,1,0,0,1,1,60.413698630136984,39.728309624503396,Obese (class 2),False,False,True,False,False,False,False,False,True,False,False,True,False
+45331,17482,153,71.0,140,90,1,1,0,0,1,1,47.895890410958906,30.33021487462087,Obese (class 1),False,True,False,False,False,False,False,False,False,True,False,True,False
+72524,17761,172,56.0,150,90,1,1,0,0,1,0,48.66027397260274,18.92915089237426,Normal,True,False,False,False,False,False,False,False,False,True,False,False,True
+82993,18913,159,86.0,130,80,1,1,0,0,1,0,51.81643835616438,34.01764170721095,Obese (class 1),False,True,False,False,False,False,False,False,True,False,False,True,False
+97100,18387,154,61.0,110,90,1,1,0,0,1,0,50.37534246575343,25.72103221453871,Overweight,False,False,False,False,True,False,False,False,True,False,False,True,False
+970,23391,157,71.0,150,80,1,2,0,0,1,1,64.08493150684932,28.804413972169254,Overweight,False,False,False,False,True,False,False,False,True,False,False,False,True
+24823,20479,174,65.0,150,80,2,2,0,0,1,1,56.106849315068494,21.469150482230148,Normal,True,False,False,False,False,False,False,False,True,False,False,False,True
+83666,18996,161,75.0,140,90,1,1,0,0,1,1,52.04383561643836,28.93406890166274,Overweight,False,False,False,False,True,False,False,False,False,True,False,True,False
+12963,18372,165,65.0,120,80,1,1,0,0,1,0,50.33424657534247,23.875114784205696,Normal,True,False,False,False,False,False,False,False,True,False,False,True,False
+19630,18853,169,85.0,125,80,1,1,0,0,1,0,51.652054794520545,29.76086271489094,Overweight,False,False,False,False,True,False,False,False,True,False,False,True,False
+98459,20192,162,70.0,140,80,3,3,0,0,1,1,55.320547945205476,26.672763298277697,Overweight,False,False,False,False,True,False,False,False,True,False,False,True,False
+79702,18051,165,85.0,120,80,1,2,0,0,1,0,49.45479452054794,31.22130394857668,Obese (class 1),False,True,False,False,False,False,False,False,True,False,False,True,False
+53305,19572,156,52.0,100,70,1,1,0,0,1,1,53.62191780821918,21.367521367521366,Normal,True,False,False,False,False,False,True,False,False,False,False,True,False
+72719,17563,173,96.0,130,90,2,3,0,0,1,0,48.11780821917808,32.075912994086,Obese (class 1),False,True,False,False,False,False,False,False,True,False,False,True,False
+76202,22124,170,70.0,120,80,1,1,0,0,1,0,60.61369863013699,24.221453287197235,Normal,True,False,False,False,False,False,False,False,True,False,False,True,False
+24442,18080,158,63.0,140,80,1,1,0,0,1,0,49.534246575342465,25.236340330075304,Overweight,False,False,False,False,True,False,False,False,True,False,False,True,False
+73304,18085,174,79.0,120,80,1,1,0,0,1,0,49.54794520547945,26.09327520147972,Overweight,False,False,False,False,True,False,False,False,True,False,False,False,True
+93152,23348,159,99.0,150,90,1,1,0,0,1,1,63.967123287671235,39.15984336062655,Obese (class 2),False,False,True,False,False,False,False,False,False,True,False,True,False
+60682,21037,160,60.0,130,90,3,1,0,0,1,1,57.635616438356166,23.437499999999996,Normal,True,False,False,False,False,False,False,False,True,False,False,False,True
+75616,21087,166,108.0,130,90,1,1,0,0,1,1,57.772602739726025,39.1929162432864,Obese (class 2),False,False,True,False,False,False,False,False,True,False,False,True,False
+22559,19595,165,72.0,120,80,3,1,0,0,1,0,53.68493150684932,26.44628099173554,Overweight,False,False,False,False,True,False,False,False,True,False,False,True,False
+30081,16872,173,94.0,120,80,1,1,1,1,1,0,46.224657534246575,31.40766480670921,Obese (class 1),False,True,False,False,False,False,False,False,True,False,False,False,True
+38630,15763,155,67.0,130,70,1,1,0,0,1,0,43.18630136986302,27.887617065556707,Overweight,False,False,False,False,True,False,False,False,True,False,False,True,False
+38262,23335,162,86.0,160,90,1,1,0,0,1,1,63.93150684931507,32.769394909312595,Obese (class 1),False,True,False,False,False,False,False,False,False,True,False,True,False
+64425,20261,167,75.0,120,80,1,1,0,0,1,0,55.50958904109589,26.89232313815483,Overweight,False,False,False,False,True,False,False,False,True,False,False,True,False
+31501,17647,156,70.0,110,69,1,1,0,0,0,0,48.347945205479455,28.763971071663377,Overweight,False,False,False,False,True,False,True,False,False,False,False,True,False
+26696,19629,160,65.0,120,70,1,1,0,0,1,0,53.778082191780825,25.390624999999996,Overweight,False,False,False,False,True,False,False,True,False,False,False,True,False
+81984,16948,150,55.0,100,70,1,1,0,0,1,0,46.43287671232877,24.444444444444443,Normal,True,False,False,False,False,False,True,False,False,False,False,True,False
+75774,23382,162,89.0,130,80,1,1,0,0,1,1,64.06027397260274,33.91251333638164,Obese (class 1),False,True,False,False,False,False,False,False,True,False,False,True,False
+60163,20250,174,69.0,120,80,1,1,0,0,1,0,55.47945205479452,22.79032897344431,Normal,True,False,False,False,False,False,False,False,True,False,False,True,False
+1357,16195,160,100.0,120,80,1,1,1,0,1,0,44.36986301369863,39.06249999999999,Obese (class 2),False,False,True,False,False,False,False,False,True,False,False,True,False
+57503,20613,156,88.0,150,80,1,1,0,0,1,0,56.47397260273973,36.160420775805385,Obese (class 2),False,False,True,False,False,False,False,False,True,False,False,True,False
+10203,20424,157,98.0,120,80,3,1,0,0,0,1,55.95616438356164,39.75820520102235,Obese (class 2),False,False,True,False,False,False,False,False,True,False,False,True,False
+99195,21252,153,58.0,100,80,1,1,1,0,1,0,58.224657534246575,24.77679524969029,Normal,True,False,False,False,False,False,False,False,True,False,False,False,True
+18863,21228,156,52.0,120,80,1,1,0,0,1,0,58.15890410958904,21.367521367521366,Normal,True,False,False,False,False,False,False,False,True,False,False,True,False
+51839,22809,165,63.0,120,80,1,3,0,0,1,0,62.49041095890411,23.140495867768596,Normal,True,False,False,False,False,False,False,False,True,False,False,True,False
+86272,22105,177,95.0,160,100,1,2,0,0,1,0,60.56164383561644,30.323342589932647,Obese (class 1),False,True,False,False,False,False,False,False,False,True,False,False,True
+1278,19890,163,71.0,130,80,1,1,1,1,1,0,54.49315068493151,26.722872520606725,Overweight,False,False,False,False,True,False,False,False,True,False,False,False,True
+92697,20403,159,65.0,140,90,2,1,0,0,1,1,55.8986301369863,25.71100826707804,Overweight,False,False,False,False,True,False,False,False,False,True,False,True,False
+76012,19681,182,78.0,120,80,1,1,0,0,1,0,53.92054794520548,23.54788069073783,Normal,True,False,False,False,False,False,False,False,True,False,False,False,True
+79113,20952,172,77.0,140,90,3,1,0,0,1,1,57.4027397260274,26.027582477014604,Overweight,False,False,False,False,True,False,False,False,False,True,False,True,False
+61285,23211,156,55.0,130,90,1,1,0,0,1,0,63.59178082191781,22.600262984878366,Normal,True,False,False,False,False,False,False,False,True,False,False,True,False
+27428,19135,164,77.0,120,80,1,1,0,0,0,0,52.42465753424658,28.628792385484836,Overweight,False,False,False,False,True,False,False,False,True,False,False,True,False
+24748,18310,160,53.0,150,100,1,1,0,0,1,0,50.16438356164384,20.703124999999996,Normal,True,False,False,False,False,False,False,False,False,True,False,True,False
+13174,19508,160,58.0,120,70,1,1,0,0,1,0,53.446575342465756,22.656249999999996,Normal,True,False,False,False,False,False,False,True,False,False,False,True,False
+98967,22752,157,75.0,140,90,1,1,0,0,1,1,62.33424657534247,30.427197857925268,Obese (class 1),False,True,False,False,False,False,False,False,False,True,False,False,True
+46968,21156,142,43.0,100,70,1,1,0,0,1,0,57.961643835616435,21.32513390200357,Normal,True,False,False,False,False,False,True,False,False,False,False,True,False
+76225,22609,154,55.0,130,90,2,2,0,0,1,0,61.942465753424656,23.19109461966605,Normal,True,False,False,False,False,False,False,False,True,False,False,True,False
+11973,20460,160,67.0,110,70,1,1,0,0,0,0,56.054794520547944,26.171874999999996,Overweight,False,False,False,False,True,False,True,False,False,False,False,True,False
+57480,20429,158,72.0,120,80,1,1,0,0,1,0,55.96986301369863,28.841531805800347,Overweight,False,False,False,False,True,False,False,False,True,False,False,False,True
+30760,15344,157,76.0,120,90,1,1,0,0,0,0,42.038356164383565,30.832893829364274,Obese (class 1),False,True,False,False,False,False,False,False,True,False,False,True,False
+83303,20347,169,72.0,150,100,2,1,0,0,1,1,55.74520547945205,25.209201358495854,Overweight,False,False,False,False,True,False,False,False,False,True,False,False,True
+94727,20507,165,60.0,120,80,1,1,0,0,1,1,56.18356164383562,22.03856749311295,Normal,True,False,False,False,False,False,False,False,True,False,False,True,False
+69097,18360,172,71.0,120,80,1,1,0,0,1,0,50.3013698630137,23.99945916711736,Normal,True,False,False,False,False,False,False,False,True,False,False,False,True
+32541,17252,172,68.0,130,80,1,1,0,0,1,0,47.26575342465753,22.985397512168742,Normal,True,False,False,False,False,False,False,False,True,False,False,True,False
+83393,18374,167,58.0,120,80,1,1,0,0,1,0,50.33972602739726,20.796729893506402,Normal,True,False,False,False,False,False,False,False,True,False,False,True,False
+22010,20430,154,68.0,100,70,2,2,0,0,1,0,55.97260273972603,28.67262607522348,Overweight,False,False,False,False,True,False,True,False,False,False,False,True,False
+9327,17460,168,67.0,120,80,1,1,1,0,1,0,47.83561643835616,23.738662131519277,Normal,True,False,False,False,False,False,False,False,True,False,False,False,True
+4731,15965,153,66.0,110,80,1,1,0,0,1,0,43.73972602739726,28.194284249647573,Overweight,False,False,False,False,True,False,False,False,True,False,False,True,False
+12756,17320,172,102.0,80,130,1,1,0,1,1,0,47.45205479452055,34.47809626825311,Obese (class 1),False,True,False,False,False,False,False,False,True,False,False,False,True
+45039,15485,162,78.0,110,60,1,1,0,0,1,0,42.42465753424658,29.721079103795148,Overweight,False,False,False,False,True,False,True,False,False,False,False,True,False
+84898,18841,163,104.0,120,80,3,3,0,0,1,1,51.61917808219178,39.14336256539576,Obese (class 2),False,False,True,False,False,False,False,False,True,False,False,False,True
+4560,19165,170,80.0,120,80,1,1,1,1,1,0,52.50684931506849,27.68166089965398,Overweight,False,False,False,False,True,False,False,False,True,False,False,False,True
+10806,21090,170,78.0,120,80,1,2,0,0,1,0,57.78082191780822,26.989619377162633,Overweight,False,False,False,False,True,False,False,False,True,False,False,False,True
+20661,18189,158,85.0,110,70,1,1,0,0,1,0,49.83287671232877,34.049030604069856,Obese (class 1),False,True,False,False,False,False,True,False,False,False,False,True,False
+16456,17530,160,113.0,140,90,3,1,0,0,1,1,48.02739726027397,44.14062499999999,Obese (class 3),False,False,False,True,False,False,False,False,False,True,False,True,False
+24843,18413,162,78.0,120,80,2,2,0,0,1,0,50.446575342465756,29.721079103795148,Overweight,False,False,False,False,True,False,False,False,True,False,False,True,False
+84892,23441,130,60.0,140,60,1,1,0,0,1,0,64.22191780821917,35.50295857988165,Obese (class 2),False,False,True,False,False,False,False,False,False,True,False,False,True
